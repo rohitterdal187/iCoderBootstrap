@@ -5,10 +5,8 @@
     /* overflow: hidden; */
 }
 .mb-2 {
-    margin-bottom: .5rem!important;
-    /* align-items: center; */
-    width: 80%;
-    margin-left: 150px;
+   margin-left: 0px;
+    margin-right: 0px;
 }
 .Bow {
     display: -ms-flexbox;
